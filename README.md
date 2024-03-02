@@ -3,7 +3,7 @@
 ![corinthians](./img/corinthians.png)
 <!-- -------------------------------------
 <p align="center" width="100%">
-      <img width="50%" src="./img/corinthians.png">
+      <img width="50%" src="./img/corinthians.png" alt="logo">      
 </p> -->
 
 # Titulo 
